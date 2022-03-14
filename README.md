@@ -1,1 +1,1 @@
-# Building-12-Data-Science-Apps-3-hours
+# Building-12-Data-Science-Apps
